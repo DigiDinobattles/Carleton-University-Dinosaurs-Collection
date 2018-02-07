@@ -1,2 +1,8 @@
 # Carleton-University-Dinosaurs-Collection
-Dinosaur tweets
+
+
+We are a institution based out of Carleton University that aims to conduct research on the Triassic, Jurassic, and Cretaceous periods. 
+
+Founded by Scott Ellerington II, with backing from the Carleton Archaeological department and the Eaton Family Foundation (EFF).
+
+Research supervised by Dr.S.Graham.
